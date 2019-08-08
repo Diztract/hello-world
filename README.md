@@ -1,3 +1,3 @@
 # hello-world
-Noob testing /n
-My Playground Smilen=)
+Noob testing
+# Smilen=) Playground
